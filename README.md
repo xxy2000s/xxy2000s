@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![xxy2000s' GitHub stats](https://github-readme-stats.vercel.app/api?username=xxy2000s)](https://github.com/xxy2000s/github-readme-stats)
 - 🌱 I’m currently learning in BUPT
-- 🤔 I’m chasing for pku ...
+- 🤔 I’m coming pku this fall
