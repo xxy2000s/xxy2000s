@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![xxy2000s' GitHub stats](https://github-readme-stats.vercel.app/api?username=xxy2000s)](https://github.com/xxy2000s/github-readme-stats)
-- 🌱 I’m currently learning in BUPT
-- 🤔 I’m coming PKU this fall
+- 🌱 I’m currently learning in SSPKU
